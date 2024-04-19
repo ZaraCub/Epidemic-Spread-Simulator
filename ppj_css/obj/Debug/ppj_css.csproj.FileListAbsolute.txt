@@ -1,0 +1,15 @@
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\bin\Debug\ppj_css.exe.config
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\bin\Debug\ppj_css.exe
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\bin\Debug\ppj_css.pdb
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.csproj.AssemblyReference.cache
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\MainWindow.baml
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\MainWindow.g.cs
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\App.g.cs
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css_MarkupCompile.cache
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.g.resources
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.Properties.Resources.resources
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.csproj.GenerateResource.cache
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.csproj.CoreCompileInputs.cache
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.exe
+C:\Users\Zara\OneDrive\Radna površina\ppj_css\obj\Debug\ppj_css.pdb
